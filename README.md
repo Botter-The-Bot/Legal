@@ -4,4 +4,4 @@
 
 > [Privacy Policy](Privacy.md)
 
-> [Terms of Service](Terms_of_Service.md)
+> [Terms of Service](Terms%20of%20Service.md)
