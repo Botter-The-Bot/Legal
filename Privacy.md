@@ -1,4 +1,4 @@
-# Privacy Policy (Bot)
+# Privacy Policy
 
 Last updated: May 09, 2022
 
@@ -80,7 +80,12 @@ Guild Data may include information such as:
 - Members nicknames and their past
 - Members roles
 
-__Message Logs (Must be enabled in the Guild)__ Botter will send deleted and edited messages to a channel that you may not have access to.
+__Case Log__ if the Guild find necessary to apply any punishment to any member, We will log the case in in our database and in a channel that you may not have access to, the data may include:
+
+- User Id
+- Any information provided by the Guild staff
+
+__Message Logs (Must be enabled in the Guild)__ the Botter will copy deleted and edited messages to a channel that you may not have access to.
 
 ### **Chat Data**
 
@@ -162,15 +167,15 @@ We may use third-party Service Providers to provide better improvement of our Se
 
 	Their Privacy Policy can be viewed at [https://discord.com/privacy](https://discord.com/privacy)
 
-- __Perspective Api__ (Must be enabled in the Guild)
+- __Perspective Api__ (If enabled, will send the message content anonymously)
 
 	Their Privacy Policy can be viewed at [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-- __Google SafeBrowsing__ (Must be enabled in the Guild, only urls found in messages are used)
+- __Google SafeBrowsing__ (If enabled, will send urls found in messages)
 
 	Their Privacy Policy can be viewed at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
-- __Ravy Api__
+- __Ravy Api__ (If enabled, will send urls found in messages)
 
 	Their Privacy Policy can be viewed at [https://aero.bot/api-privacy](https://aero.bot/api-privacy)
 
@@ -195,12 +200,11 @@ We have no control over and assume no responsibility for the content, privacy po
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
-
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 # Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By email: jpedrobm0@gmail.com or via [Discord](https://discord.gg/SjzJKBKJB2).
+- By email: jpedrobm0@gmail.com.
+- By Discord: [Discord](https://discord.gg/SjzJKBKJB2).
