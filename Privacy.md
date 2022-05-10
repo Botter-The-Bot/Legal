@@ -155,6 +155,34 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
+# Your Rights
+
+## Access to Your Personal Data
+
+You have the right to request a copy of the Personal Data We have on You. You may exercise this right by sending us an email at Jpedrobm0@gmail.com or by contacting us at [Discord](https://discord.gg/SjzJKBKJB2).
+
+## Right to Rectification
+
+You have the right to request that We correct or amend Your Personal Data if You believe that it is inaccurate or incomplete. You also have the right to request that We withdraw Your consent for future processing of Your Personal Data.You may exercise this right by sending us an email at Jpedrobm0@gmail.com or by contacting us at [Discord](https://discord.gg/SjzJKBKJB2).
+
+## Right to Erasure
+
+You have the right to request that We erase Your Personal Data, under certain conditions. The majority of the Personal Data stored in our database will be deleted or anonymized. The only Personal Data that will remain will be your User Id. You may exercise this right by sending us an email at Jpedrobm0@gmail.com or by contacting us at [Discord](https://discord.gg/SjzJKBKJB2).
+
+## Related to Guild Data
+
+For Guild related data, the guild __owner__ has the right to:
+
+- __Request Access__: to access the data
+- __Request Rectification__: to correct the data
+- __Request Erasure__: to erase the data
+
+This includes, but is not limited to:
+
+- Guild Settings
+- Guild Members Data
+- Guild Cases
+
 # Detailed Information on the Processing of Your Personal Data
 
 The Service Providers We use may have access to Your Personal Data. These third-party vendors collect, store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.
@@ -163,25 +191,15 @@ The Service Providers We use may have access to Your Personal Data. These third-
 ## Usage, Performance and Miscellaneous
 We may use third-party Service Providers to provide better improvement of our Service.
 
-- __Discord__
+- __Discord__ Their Privacy Policy can be viewed at [https://discord.com/privacy](https://discord.com/privacy)
 
-	Their Privacy Policy can be viewed at [https://discord.com/privacy](https://discord.com/privacy)
+- __Perspective Api__ (If enabled, will send the message content anonymously): Their Privacy Policy can be viewed at [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-- __Perspective Api__ (If enabled, will send the message content anonymously)
+- __Google SafeBrowsing__ (If enabled, will send urls found in messages): Their Privacy Policy can be viewed at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
-	Their Privacy Policy can be viewed at [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- __Ravy Api__ (If enabled, will send urls found in messages): Their Privacy Policy can be viewed at [https://aero.bot/api-privacy](https://aero.bot/api-privacy)
 
-- __Google SafeBrowsing__ (If enabled, will send urls found in messages)
-
-	Their Privacy Policy can be viewed at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
-
-- __Ravy Api__ (If enabled, will send urls found in messages)
-
-	Their Privacy Policy can be viewed at [https://aero.bot/api-privacy](https://aero.bot/api-privacy)
-
-- __Discord Rep__
-
-	Their Privacy Policy can be viewed at [https://discordrep.com/privacy](https://discordrep.com/privacy)
+- __Discord Rep__: Their Privacy Policy can be viewed at [https://discordrep.com/privacy](https://discordrep.com/privacy)
 
 
 # Children's Privacy
