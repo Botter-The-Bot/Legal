@@ -8,6 +8,8 @@
 
 ## Portuguese (Português)
 
+*Note: Might be outdated, use the main [Privacy Policy](Privacy.md) for updated files*
+
 > [Política de Privacidade](pt-BR/Privacy.md)
 
 > [Termos de Serviço](pt-BR/Terms%20of%20Service.md)
