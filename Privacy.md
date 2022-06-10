@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: May 09, 2022
+Last updated: Jun 10, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -201,6 +201,7 @@ We may use third-party Service Providers to provide better improvement of our Se
 
 - __Discord Rep__: Their Privacy Policy can be viewed at [https://discordrep.com/privacy](https://discordrep.com/privacy)
 
+- __Dangerous Discord__: Their Privacy Policy can be viewed at [https://drivet.xyz/privacy](https://drivet.xyz/privacy)
 
 # Children's Privacy
 
